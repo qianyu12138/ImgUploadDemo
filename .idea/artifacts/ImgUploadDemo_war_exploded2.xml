@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ImgUploadDemo:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImgUploadDemo_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ImgUploadDemo/web/Web" />
+    </root>
+  </artifact>
+</component>
